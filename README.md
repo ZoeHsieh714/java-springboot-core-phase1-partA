@@ -25,7 +25,7 @@
 #### 使用技術 (使用技術)
 * **Java Version:** Java 21
 * **Framework:** Spring Boot 3.5.7
-* **Template Engine:** Thymeleaf
+* **Web/Template:** Spring MVC, Thymeleaf
 * **Build Tool:** Gradle
 
 #### 運行方法 (実行方法)
