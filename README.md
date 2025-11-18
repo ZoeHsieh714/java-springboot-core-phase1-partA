@@ -1,5 +1,4 @@
-## Phase-1-Java-Core-Foundation: Java核心基礎與Spring底層原理實戰
-## (Phase-1-Java-Core-Foundation: Javaコア基礎とSpring基盤原則の実践)
+## Phase-1-Java-Core-Foundation: Java核心基礎與Spring底層原理實戰  (Phase-1-Java-Core-Foundation: Javaコア基礎とSpring基盤原則の実践)
 
 這個專案標誌著 Spring Boot 學習的第一階段完成，它是一個完全整合的實戰範例，涵蓋了 Java 8+ 的核心特性、分層架構，以及 Spring IoC 容器運作的底層原理（反射與生命週期）。
 
