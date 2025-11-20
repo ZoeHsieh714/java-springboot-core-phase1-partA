@@ -49,7 +49,7 @@
 
 1.  **Clone 專案 (プロジェクトのクローン):**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name]
+    git clone [https://github.com/your-username/your-repository-name.git]
     ```
 2.  **啟動應用程式 (アプリケーションの起動):**
     ```bash
